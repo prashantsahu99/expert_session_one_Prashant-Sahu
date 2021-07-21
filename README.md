@@ -8,7 +8,7 @@
 
 **To run the code:**
 
-1.Clone the github repository in your computer. git clone 
+1.Clone the github repository in your computer. git clone <a> https://github.com/prashantsahu99/Data-analysis.git
 
 2.Run dataPreperation.ipynb file which will create two json files in dataStore folder.
 
